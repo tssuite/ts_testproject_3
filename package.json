@@ -1,9 +1,9 @@
 {
-  "name": "@tssuite/ts_testproject_3",
-  "version": "0.1.4",
-  "description": "tssuite ts_testproject_3 — gg one E2E test project",
-  "homepage": "https://github.com/tssuite/ts_testproject_3",
-  "bugs": "https://github.com/tssuite/ts_testproject_3/issues",
+  "name": "@tssuite/testproject_3",
+  "version": "0.1.5",
+  "description": "tssuite testproject_3 — gg one E2E test project",
+  "homepage": "https://github.com/tssuite/testproject_3",
+  "bugs": "https://github.com/tssuite/testproject_3/issues",
   "private": true,
   "license": "MIT",
   "engines": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tssuite/ts_testproject_3.git"
+    "url": "git+https://github.com/tssuite/testproject_3.git"
   },
   "main": "dist/template-project.js",
   "types": "dist/index.d.ts",
